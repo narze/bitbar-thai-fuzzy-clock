@@ -1,5 +1,7 @@
 # Thai Fuzzy Clock
 
+![Screenshot](https://i.imgur.com/Td4z053.png)
+
 ## Features
 - Display one pairing market data (Default to THB-OMG 🚀)
 
