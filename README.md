@@ -8,5 +8,5 @@
 ## Instructions
 - Get [BitBar](https://getbitbar.com) and install it to your applications folder
 - If it asks for a plugin folder on first launch, create a new folder and use that
-- <a href="bitbar://openPlugin?title=BX&src=https://github.com/narze/bitbar-fuzzy-thai-clock/raw/master/fuzzy_thai_clock.2s.rb">Download</a>
+- Open `bitbar://openPlugin?title=FuzzyThaiClock&src=https://github.com/narze/bitbar-thai-fuzzy-clock/raw/master/thai_fuzzy_clock.2s.rb` in browser, install the plugin to BitBar
 - You're done!
