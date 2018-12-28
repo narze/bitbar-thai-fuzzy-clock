@@ -3,7 +3,7 @@
 ![Screenshot](https://i.imgur.com/Td4z053.png)
 
 ## Features
-- Display one pairing market data (Default to THB-OMG 🚀)
+- Display fuzzy clock in Thai language
 
 ## Instructions
 - Get [BitBar](https://getbitbar.com) and install it to your applications folder
