@@ -50,7 +50,9 @@ def h
 end
 
 def m
-  "#{th(now.min)}นาที"
+  if now.min > 0
+    "#{th(now.min)}นาที"
+  end
 end
 
 def s
